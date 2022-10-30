@@ -1,7 +1,5 @@
 # RecSys_ITMO
-<<<<<<< HEAD
-3th task course of the Deep Learning 
-=======
+
 ## 3th task course of the Deep Learning 
 
 ## Description
