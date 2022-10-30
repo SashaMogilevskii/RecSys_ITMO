@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df64c7bb-0745-49e3-ad4c-e131287719cd" name="Changes" comment="add src">
-      <change afterPath="$PROJECT_DIR$/src" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
       <workItem from="1667132512686" duration="207000" />
       <workItem from="1667132748085" duration="1196000" />
       <workItem from="1667149340822" duration="1487000" />
-      <workItem from="1667150888843" duration="299000" />
+      <workItem from="1667150888843" duration="980000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1667132824339</created>
@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667150976647</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add src">
+      <created>1667151442949</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667151442949</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +113,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="11" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
         <entry key="a0014f84-004b-497b-a87c-403dd7341a3f">
