@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df64c7bb-0745-49e3-ad4c-e131287719cd" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="df64c7bb-0745-49e3-ad4c-e131287719cd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +15,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -49,7 +52,7 @@
       <updated>1667132511415</updated>
       <workItem from="1667132512686" duration="207000" />
       <workItem from="1667132748085" duration="1196000" />
-      <workItem from="1667149340822" duration="369000" />
+      <workItem from="1667149340822" duration="676000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1667132824339</created>
@@ -58,7 +61,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667132824339</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add gitignore, delete src">
+      <created>1667149810933</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667149810933</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add src">
+      <created>1667149972679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667149972679</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +94,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="add gitignore, delete src" />
+    <MESSAGE value="add src" />
+    <option name="LAST_COMMIT_MESSAGE" value="add src" />
   </component>
 </project>
