@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df64c7bb-0745-49e3-ad4c-e131287719cd" name="Changes" comment="add">
+      <change afterPath="$PROJECT_DIR$/.idea/RecSys_ITMO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/movies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ratings_update.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/tags.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/notebooks/baseline_30_oct.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +29,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -48,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667132511415</updated>
       <workItem from="1667132512686" duration="207000" />
-      <workItem from="1667132748085" duration="805000" />
+      <workItem from="1667132748085" duration="1196000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1667132824339</created>
