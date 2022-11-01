@@ -2,8 +2,10 @@
 
 ## 3th task course of the Deep Learning 
 
-## Description
-Recommendation system of films for users 
+## Yandex competitions
+<p ><img src="src/images/icon_yandex.png" 
+alt="example" width="50%"></p>
+Recommendation system of music for users 
 based on interactions and features of items
 
 ## Architecture & example
@@ -39,10 +41,10 @@ pipenv run python main.py
 
 ## Our results:
 
-| Model           | Data               | Presicion_K | AUC  |
-|-----------------|--------------------|-------------|------|
-| svd(scipy) v=15 | ranking.csv(short) | ----        | ---- | 
-| svd(scipy) v=32 | ranking.csv(short) | ----        | ---- |
+| Model           | Data               | MRR@100    | AUC  |
+|-----------------|--------------------|------------|------|
+| svd(scipy) v=15 | ranking.csv(short) | ----       | ---- | 
+| svd(scipy) v=32 | ranking.csv(short) | ----       | ---- |
 
 
 
